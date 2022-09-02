@@ -13,15 +13,15 @@
 
 # 🧐 About Me
 
-🔭 I’m currently working with a team on [THS-Project](https://github.com/balotofi/toweringheights-frontend) 🧠 
+🔭 I’m currently working with a team on [THS-Project](https://github.com/Meekunn/toweringheights-frontend) 🧠 
 
-🔭 I’m currently working on [React Todo-App](https://github.com/Meekunn/EHC-React-Project)
+🔭 I’m currently working on [Task Productivity App](https://github.com/Meekunn/EHC-React-Project)
 
 🌱 I’m currently learning **ReactJS, NextJS, TypeScript, Redux**
 
 👨‍💻 All of my projects are available at [https://adedamolaorofin.web.app](https://adedamolaorofin.web.app)
 
-💬 Ask me about **ReactJS**
+💬 Ask me about **ReactJS**, **JavaScript**
 
 📫 How to reach me **orofinadedamola@gmail.com**
 
@@ -66,9 +66,9 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="20" height="20"/> 
    </a> 
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+   <!--  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> 
-   </a> 
+   </a> -->
  <!-- <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="20" height="20"/> -->
     </a> 
@@ -79,4 +79,5 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meekunn&theme=vision-friendly-dark&show_icons=true&locale=en" alt="meekunn" /></p> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meekunn&&theme=vision-friendly-dark&show_icons=true&locale=en" alt="meekunn" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meekunn&theme=dark&background=000000" alt="meekunn" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meekunn&theme=dark&background=000000" alt="meekunn" /></p> -->
+<a href="http://www.github.com/Meekunn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Meekunn&stroke=ffffff&background=000000&ring=0077b6&fire=0077b6&currStreakNum=ffffff&currStreakLabel=0077b6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
