@@ -17,7 +17,7 @@
 
 🔭 I’m currently working on [Task Productivity App](https://github.com/Meekunn/EHC-React-Project)
 
-🌱 I’m currently learning **ReactJS, NextJS, TypeScript, Redux**
+🌱 I’m currently learning **ReactJS, NextJS, TypeScript, Node.js, Redux**
 
 👨‍💻 All of my projects are available at [https://adedamolaorofin.web.app](https://adedamolaorofin.web.app)
 
