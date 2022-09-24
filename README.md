@@ -31,6 +31,8 @@
 
 ⚡ Fun fact **I play board games 😎**
 
+🔥 Github Streaks: Let's get to 14 days 🏹
+
 ## 🔗 Connect with me:
 
 <p align="left">
