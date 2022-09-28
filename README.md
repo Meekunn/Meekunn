@@ -31,6 +31,8 @@
 
 ⚡ Fun fact **I play board games 😎**
 
+⚡ [![@meekunn's Holopin board](https://holopin.io/api/user/board?user=meekunn)](https://holopin.io/@meekunn)
+
 🔥 Github Streaks: Let's get to 14 days 🏹
 
 ## 🔗 Connect with me:
