@@ -78,8 +78,8 @@
 
 ## 🚀 Status:
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meekunn&theme=vision-friendly-dark&show_icons=true&locale=en" alt="meekunn" /></p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meekunn&&theme=vision-friendly-dark&show_icons=true&locale=en" alt="meekunn" /></p> -->
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meekunn&theme=vision-friendly-dark&show_icons=true&locale=en" alt="meekunn" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meekunn&&theme=vision-friendly-dark&show_icons=true&locale=en" alt="meekunn" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meekunn&theme=dark&background=000000" alt="meekunn" /></p> -->
 <a href="http://www.github.com/Meekunn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Meekunn&stroke=ffffff&background=000000&ring=0077b6&fire=0077b6&currStreakNum=ffffff&currStreakLabel=0077b6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
