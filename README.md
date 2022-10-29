@@ -33,6 +33,8 @@
 
 🔥 Github Streaks: Let's get to 14 days 🏹
 
+🔥 Completed Hacktoberfest: https://holopin.io/userbadge/cl9tlmuy3337408ifuarrj38r
+
 ## 🔗 Connect with me:
 
 <p align="left">
