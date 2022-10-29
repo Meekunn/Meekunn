@@ -33,7 +33,9 @@
 
 🔥 Github Streaks: Let's get to 14 days 🏹
 
-🔥 Completed Hacktoberfest: https://holopin.io/userbadge/cl9tlmuy3337408ifuarrj38r
+🔥 Completed Hacktoberfest:
+
+[![@meekunn's Holopin board](https://holopin.me/meekunn)](https://holopin.io/@meekunn)
 
 ## 🔗 Connect with me:
 
