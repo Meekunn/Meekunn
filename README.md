@@ -31,7 +31,7 @@
 
 ⚡ Fun fact **I play board games 😎**
 
-🔥 Github Streaks: Let's get to 14 days 🏹
+🔥 Open-source contribution 🏹
 
 🔥 Completed Hacktoberfest:
 
