@@ -13,11 +13,11 @@
 
 # 🧐 About Me
 
+🔭 I’m currently working on [New Portfolio Website](https://github.com/Meekunn/Portfolio_website2)
+
 🔭 I’m currently working with a team on [THS-Project](https://github.com/Meekunn/toweringheights-frontend) 🧠 
 
-🔭 I’m currently working on [Task Productivity App](https://github.com/Meekunn/EHC-React-Project)
-
-🌱 I’m currently learning **ReactJS, NextJS, TypeScript, Node.js, Redux**
+🌱 I’m currently learning **ReactJS, NextJS, TypeScript, Vue.js**
 
 👨‍💻 All of my projects are available at [https://adedamolaorofin.web.app](https://adedamolaorofin.web.app)
 
