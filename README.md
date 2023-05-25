@@ -13,29 +13,33 @@
 
 # 🧐 About Me
 
-🔭 I’m currently working on [New Portfolio Website](https://github.com/Meekunn/Portfolio_website2)
+🔭 I’m currently working on a [Wedding Website](https://github.com/Meekunn/weddingsite)
 
-🔭 I’m currently working with a team on [THS-Project](https://github.com/Meekunn/toweringheights-frontend) 🧠 
+🔭 I’m currently working on my [New Portfolio Website](https://github.com/Meekunn/Portfolio_website2)
 
-🌱 I’m currently learning **ReactJS, NextJS, TypeScript, Vue.js**
+<!--🔭 I’m currently working with a team on [THS-Project](https://github.com/Meekunn/toweringheights-frontend) 🧠 -->
 
-👨‍💻 All of my projects are available at [https://adedamolaorofin.web.app](https://adedamolaorofin.web.app)
+<!--🌱 I’m improving my skills on **ReactJS, NextJS, TypeScript, Vue.js**-->
+
+🌱 I’m currently learning **C++, OOP, DSA**
+
+👨‍💻 All of my projects are available at [https://meekunn.github.io/](https://meekunn.github.io/)
 
 💬 Ask me about **ReactJS**, **JavaScript**
 
 📫 How to reach me **orofinadedamola@gmail.com**
 
-💞️ I’m open to collaboration
+<!--💞️ I’m open to collaboration -->
 
 ⚡ Fun fact **I think I have a thing for emojis 👀**
 
 ⚡ Fun fact **I play board games 😎**
 
-🔥 Open-source contribution 🏹
+<!--🔥 Open-source contribution 🏹
 
 🔥 Completed Hacktoberfest:
 
-[![@meekunn's Holopin board](https://holopin.me/meekunn)](https://holopin.io/@meekunn)
+[![@meekunn's Holopin board](https://holopin.me/meekunn)](https://holopin.io/@meekunn) -->
 
 ## 🔗 Connect with me:
 
