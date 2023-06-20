@@ -13,9 +13,9 @@
 
 # 🧐 About Me
 
-🔭 I’m currently working on a [Wedding Website](https://github.com/Meekunn/weddingsite)
+<!--🔭 I’m currently working on a [Wedding Website](https://github.com/Meekunn/weddingsite) -->
 
-🔭 I’m currently working on my [New Portfolio Website](https://github.com/Meekunn/Portfolio_website2)
+<!--🔭 I’m currently working on my [New Portfolio Website](https://github.com/Meekunn/Portfolio_website2) -->
 
 <!--🔭 I’m currently working with a team on [THS-Project](https://github.com/Meekunn/toweringheights-frontend) 🧠 -->
 
