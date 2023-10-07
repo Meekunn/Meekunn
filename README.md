@@ -86,7 +86,4 @@
 
 ## 🚀 Status:
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meekunn&theme=vision-friendly-dark&show_icons=true&locale=en" alt="meekunn" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meekunn&&theme=vision-friendly-dark&show_icons=true&locale=en" alt="meekunn" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meekunn&theme=dark&background=000000&stroke=ffffff&ring=0077b6&fire=0077b6&currStreakLabel=0077b6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="meekunn" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Meekunn&theme=dracula" alt="GitHub Streak" /></a>
