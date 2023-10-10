@@ -23,7 +23,7 @@
 
 🌱 I’m currently learning **C++, OOP, DSA**
 
-👨‍💻 All of my projects are available at [https://meekunn.github.io/](https://meekunn.github.io/)
+👨‍💻 Most of my projects are available at [https://meekunn.github.io/](https://meekunn.github.io/)
 
 💬 Ask me about **ReactJS**, **JavaScript**
 
