@@ -1,6 +1,6 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px2" />, I'm Meekun</h1>
 <h3 align="center">A frontend developer</h3>
-<img align='right' alt='avatar' width='350' src='./Cartoonify.png'>
+<img align='right' alt='avatar' width='350' src='./ai_face-removebg.png'>
 
 <p align="left"> 
   <a href="https://twitter.com/reactjs_babe" target="blank">
