@@ -85,5 +85,8 @@
  </p>
 
 ## 🚀 Status:
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Meekunn&theme=dracula" alt="GitHub Streak" /></a>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Meekunn&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=Meekunn&theme=default" />
+</picture>
+<!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Meekunn&theme=dracula" alt="GitHub Streak" /></a> -->
