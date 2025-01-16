@@ -1,5 +1,5 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px2" />, I'm Meekun</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">An Frontend Developer on a Journey to Becoming a Computer Vision Engineer</h3>
 <img align='right' alt='avatar' width='350' src='./ai_face-removebg.png'>
 
 <p align="left"> 
@@ -21,11 +21,11 @@
 
 <!--🌱 I’m improving my skills on **ReactJS, NextJS, TypeScript, Vue.js**-->
 
-🌱 I’m currently learning **C++, OOP, DSA**
+🌱 I’m currently learning **Python, Data Structures & Algorithms, Artificial Intelligence, and Computer Vision**
 
 👨‍💻 Most of my projects are available at [https://meekunn.github.io/](https://meekunn.github.io/)
 
-💬 Ask me about **ReactJS**, **JavaScript**
+💬 Ask me about **ReactJS**, **JavaScript**, and my journey in **AI & Computer Vision**
 
 📫 How to reach me **orofinadedamola@gmail.com**
 
@@ -33,7 +33,7 @@
 
 ⚡ Fun fact **I think I have a thing for emojis 👀**
 
-⚡ Fun fact **I play board games 😎**
+⚡ Fun fact **I play board games and CODM😎**
 
 <!--🔥 Open-source contribution 🏹
 
