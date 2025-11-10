@@ -1,5 +1,5 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px2" />, I'm Meekun</h1>
-<h3 align="center">An Frontend Developer on a Journey to Becoming a Computer Vision Engineer</h3>
+<h3 align="center">A Frontend Developer on a Journey to Becoming a Computer Vision Engineer</h3>
 <img align='right' alt='avatar' width='350' src='./ai_face-removebg.png'>
 
 <p align="left"> 
