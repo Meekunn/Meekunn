@@ -23,9 +23,9 @@
 
 🌱 I’m currently learning **Python, Data Structures & Algorithms, Artificial Intelligence, and Computer Vision**
 
-👨‍💻 Most of my projects are available at [https://meekunn.github.io/](https://meekunn.github.io/)
+👨‍💻 Most of my projects are available at [https://adedamolaorofin.vercel.app/](https://adedamolaorofin.vercel.app/)
 
-💬 Ask me about **ReactJS**, **JavaScript**, and my journey in **AI & Computer Vision**
+💬 Ask me about **ReactJS**, **JavaScript**, and my journey in **AI & Computer Vision** 
 
 📫 How to reach me **orofinadedamola@gmail.com**
 
@@ -44,7 +44,7 @@
 ## 🔗 Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/reactjs_babe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reactjs_babe" height="20" width="30" /></a>
+<a href="https://x.com/mee_kunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reactjs_babe" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/adedamola-orofin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adedamola-orofin" height="20" width="30" /></a>
 <!--<a href="https://stackoverflow.com/users/15853307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15853307" height="20" width="30" /></a> -->
 </p>
