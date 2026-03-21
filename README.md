@@ -4,7 +4,7 @@
 
 <p align="left"> 
   <a href="https://twitter.com/reactjs_babe" target="blank">
-    <img src="https://img.shields.io/twitter/follow/reactjs_babe?logo=twitter&style=for-the-badge" alt="reactjs_babe" />
+    <img src="https://img.shields.io/twitter/follow/mee_kunn?logo=twitter&style=for-the-badge" alt="mee_kunn" />
   </a>
   <a href="https://www.linkedin.com/in/adedamola-orofin/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="linkedin" height='28px'  />
