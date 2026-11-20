@@ -1,92 +1,136 @@
-<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px2" />, I'm Meekun</h1>
-<h3 align="center">A Frontend Developer on a Journey to Becoming a Computer Vision Engineer</h3>
-<img align='right' alt='avatar' width='350' src='./ai_face-removebg.png'>
 
-<p align="left"> 
-  <a href="https://twitter.com/reactjs_babe" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mee_kunn?logo=twitter&style=for-the-badge" alt="mee_kunn" />
+<h1 align="center">
+  Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" />, I'm Meekun!
+</h1>
+
+<h3 align="center">
+  Software Engineer | AI & Computer Vision Master's Student
+</h3>
+
+<p align="center">
+  Building thoughtful digital experiences and exploring how machines learn to see the world. 💜
+</p>
+
+<p align="center">
+  <a href="https://adedamolaorofin.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7952C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/adedamola-orofin/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="linkedin" height='28px'  />
+  <a href="https://www.linkedin.com/in/adedamola-orofin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:orofinadedamola@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-# 🧐 About Me
+---
 
-<!--🔭 I’m currently working on a [Wedding Website](https://github.com/Meekunn/weddingsite) -->
+## 🧐 A Little About Me
 
-<!--🔭 I’m currently working on my [New Portfolio Website](https://github.com/Meekunn/Portfolio_website2) -->
+<img align="right" alt="avatar" width="280" src="./ai_face-removebg.png" />
 
-<!--🔭 I’m currently working with a team on [THS-Project](https://github.com/Meekunn/toweringheights-frontend) 🧠 -->
+I'm **Adedamola (Meekun)**, a Software Engineer with a background in frontend development and a growing passion for **Artificial Intelligence and Computer Vision**.
 
-<!--🌱 I’m improving my skills on **ReactJS, NextJS, TypeScript, Vue.js**-->
+🎓 I'm currently pursuing an **Erasmus Mundus Joint Master's in Artificial Intelligence for Image Processing and Computer Vision (IPCVai)**, studying across **Hungary, Spain, and France**.
 
-🌱 I’m currently learning **Python, Data Structures & Algorithms, Artificial Intelligence, and Computer Vision**
+💻 I have professional experience building web applications and cloud developer tools using **React, Vue.js, and TypeScript**.
 
-👨‍💻 Most of my projects are available at [https://adedamolaorofin.vercel.app/](https://adedamolaorofin.vercel.app/)
+🔬 My research interests include:
+- Computer Vision & Deep Learning
+- Representation Learning & Model Generalization
+- Continual Learning
+- Human-Computer Interaction & Emotion-Aware AI
 
-💬 Ask me about **ReactJS**, **JavaScript**, and my journey in **AI & Computer Vision** 
+🧠 I'm particularly interested in how Computer Vision can help machines better interpret human expressions and behaviors, enabling more responsive and human-centered technologies.
 
-📫 How to reach me **orofinadedamola@gmail.com**
+🌱 Currently exploring **continual learning**, deep learning techniques, and practical Computer Vision applications.
 
-<!--💞️ I’m open to collaboration -->
+👩🏽‍💻 Check out my projects: [My Portfolio](https://adedamolaorofin.vercel.app/)
 
-⚡ Fun fact **I think I have a thing for emojis 👀**
+📫 Reach me at **orofinadedamola@gmail.com**
 
-⚡ Fun fact **I play board games and CODM😎**
+✨ Open to **AI/Computer Vision internships, research collaborations, and software engineering opportunities**.
 
-<!--🔥 Open-source contribution 🏹
+<br clear="right"/>
 
-🔥 Completed Hacktoberfest:
+---
 
-[![@meekunn's Holopin board](https://holopin.me/meekunn)](https://holopin.io/@meekunn) -->
+## 🛠️ Languages & Technologies
 
-## 🔗 Connect with me:
+### 🤖 AI, Machine Learning & Computer Vision
 
-<p align="left">
-<a href="https://x.com/mee_kunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reactjs_babe" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/adedamola-orofin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adedamola-orofin" height="20" width="30" /></a>
-<!--<a href="https://stackoverflow.com/users/15853307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15853307" height="20" width="30" /></a> -->
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="AI and ML tools" />
 </p>
 
-## 🧰 Languages and Tools:
+`Deep Learning` · `Computer Vision` · `YOLO` · `CNNs` · `Vision Transformers` · `Image Processing` 
 
-<p align="left"> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> 
-   </a> 
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> 
-   </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/>
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="20" height="20"/> 
-   </a> 
-   <!--  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> 
-   </a> -->
- <!-- <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="20" height="20"/> -->
-    </a> 
- </p>
+### 💻 Frontend Development
 
-## 🚀 Status:
-<picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vue,html,css,tailwind,vite" alt="Frontend tools" />
+</p>
+
+### ⚙️ Backend & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,mysql,git,github,docker,linux,figma" alt="Backend and development tools" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 👁️ Real-Time Facial Recognition Attendance System
+A face detection and recognition system for automated attendance tracking.
+
+**Tech:** YOLOv10-N · FaceNet512 · React · Flask · MySQL
+
+### 🧬 Medical Image Classification & Interpretability
+Exploring CNNs, ResNet18, and Vision Transformers for medical image classification, with Grad-CAM and attention-based interpretability.
+
+**Tech:** PyTorch · ResNet18 · ViT · PathMNIST
+
+### 📦 Expiration Date Detection & Recognition
+An ongoing Computer Vision project exploring object detection and OCR for recognizing expiration dates on product packaging.
+
+**Tech:** YOLO · OCR · Python
+
+### 🖼️ PCA-Based Spectral Image Analysis
+Exploring dimensionality reduction and reconstruction of hyperspectral and natural images using Principal Component Analysis.
+
+**Tech:** Python · PCA · Scikit-learn · NumPy
+
+<p>
+  <a href="https://adedamolaorofin.vercel.app/">
+    🔗 Explore more projects on my portfolio
+  </a>
+</p>
+
+---
+
+## 🌍 Beyond the Code
+
+- 🗣️ Learning **Spanish and French**.
+- 🎲 I enjoy Scrabble, board games, and iMessage games.
+- 🎮 Occasionally playing **Call of Duty: Mobile**.
+- 🌎 Exploring new cultures, meeting people, and stepping outside my comfort zone.
+- 💜 I love discovering random facts and learning new things.
+- 👀 And yes, I still have a thing for emojis!
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Meekunn&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=Meekunn&theme=default" />
-</picture>
-<!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Meekunn&theme=dracula" alt="GitHub Streak" /></a> -->
+    <img src="https://streak-stats.demolab.com?user=Meekunn&theme=default" alt="GitHub Streak" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning, experimenting, and building. 💜</i>
+</p>
